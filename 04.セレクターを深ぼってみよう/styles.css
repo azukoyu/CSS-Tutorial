@@ -20,7 +20,7 @@ article h2{
   color: #6B8E23;
 }
 h2 + p{
-  fontsize: 20px;
+  font-size: 20px;
   color: #20B2AA;
 }
 
